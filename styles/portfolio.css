@@ -82,7 +82,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .content h1 {
@@ -106,6 +106,23 @@ p {
 }
 .content {
   margin: 30px;
+}
+
+.logo {
+  max-height: 30px;
+}
+
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-item {
+  padding: 0 20px;
+  line-height: 16px;
+}
+
+.photo {
+  margin-top: 160px;
 }
 
 @media (max-width: 960px) {
