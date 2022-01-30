@@ -169,7 +169,7 @@ footer .social-links a:hover {
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
-    line-height: 2;
+    line-height: 1.5;
   }
 
   h2 {
@@ -188,5 +188,14 @@ footer .social-links a:hover {
   .content {
     text-align: center;
     padding: 0;
+  }
+
+  footer .email-link {
+    font-size: 20px;
+  }
+
+  .work-heading {
+    font-size: 40px !important;
+    line-height: 1 !important;
   }
 }
