@@ -137,11 +137,14 @@ footer .contact-box {
   padding: 30px 120px;
   border-radius: 10px;
 }
+
+footer .contact-box p {
+  margin: 0;
+}
 footer .email-link {
   text-decoration: none;
   color: black;
   font-size: 24px;
-  text-align: center;
 }
 
 footer .email-link:hover {
